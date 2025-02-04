@@ -5,6 +5,7 @@
 An automated parking system using Arduino, IR sensors, and an LCD display to manage parking slots efficiently.
 
 ![Demo](Images/sps2.jpg)
+![Demo](Images/spsentrance.jpg)
 
 ---
 
