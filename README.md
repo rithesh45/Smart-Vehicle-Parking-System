@@ -1,4 +1,4 @@
-# Smart Parking System Using Arduino 🚗
+# Smart Vehicle Parking System Using Arduino 🚗
 
 [![Arduino](https://img.shields.io/badge/Arduino-Compatible-success)](https://www.arduino.cc/)
 
